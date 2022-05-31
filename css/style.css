@@ -1,0 +1,43 @@
+a
+{
+	text-decoration:none; 
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#000;
+	font-weight:bold;
+}
+a:hover {color:#fff; background:#027f96; font-size:18px;}
+td{background-position: center center;}
+
+/*body {
+	background-image: url(../resimler/arkaplan2.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed; arka plan sayfa ile kaysin mi? (kaymasi için fixed, kaymamasi için scroll)
+	background-color: white;
+	background-position: top-center;
+}*/
+
+.menuSecili{color:#027f96;}
+.baslik{text-decoration:none;  font-family:Arial, Helvetica, sans-serif; font-size:60%; color:#fff; background:#027f96;}
+.konuOzet{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#fff;}
+.devami{text-decoration:none;  font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#fff;}
+
+.bannerBaslik{
+    color:#fff;
+    font: 100%/200% 'Arial';
+    float: left;
+    width: 100%;
+    background:url(../resimler/baslikArka.png);
+    background-size: contain;
+}
+.footer{
+	font: 14px 'Arial';
+	color:#000; 
+	background:url(../resimler/trans-yaziarkasi.png);
+}
+.galeri {width: 400px; height: 280px;}
+.iletisim{font:100%/200% 'Arial';}
+.iletisim:hover{color:#027f96}
+.yaziBaslik{text-decoration:none;  font-family:Arial, Helvetica, sans-serif; font-size:40px; color:#027f96;}
+.yaziBanner{background-position: center center;}
+.yazi{text-decoration: none;font-family:Arial,Helvetica,sans-serif;font-size:16px;color:#000; line-height: 20px;}
